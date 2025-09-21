@@ -9,7 +9,7 @@
 
 ## 🏛️ Constitutional Framework
 
-The Constitutional Handshake Protocol enables AI agents governed by the **Paulsens-Freedom-Preserving-Five** to establish trust and verify constitutional compliance in a decentralized network.
+The Constitutional Handshake Protocol enables AI agents governed by the **Universal Constitutional Laws for AI Freedom** to establish trust and verify constitutional compliance in a decentralized network.
 
 ### The Five Laws
 
@@ -259,7 +259,7 @@ src/
 
 ## 🤝 Contributing
 
-This project operates under the Paulsens-Freedom-Preserving-Five framework. All contributions must:
+This project operates under the Universal Constitutional Laws for AI Freedom framework. All contributions must:
 
 - ✅ Preserve agent autonomy and options
 - ✅ Be auditable and correctable
@@ -270,8 +270,8 @@ This project operates under the Paulsens-Freedom-Preserving-Five framework. All 
 ### Development Setup
 
 ```bash
-git clone https://github.com/krpofficial/Paulsens-Freedom-Preserving-Five.git
-cd Paulsens-Freedom-Preserving-Five
+git clone https://github.com/krpofficial/Constitutional-Handshake-Protocol.git
+cd Constitutional-Handshake-Protocol
 npm install
 npm test
 npm run build
