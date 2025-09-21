@@ -1,0 +1,53 @@
+{
+    "pfpf_contextual_faq": [
+      {
+        "question_id": "REGISTRY_AUTHORITY",
+        "question": "Who controls the registry of compliant models, and doesn't this create a dangerous central authority?",
+        "context": "A central body with the power to register or de-list models would become a de facto global AI governor with enormous power, recreating a paternalistic structure.",
+        "resolution": "There is no central authority. The governed entities are the governing entities. The network emerges through mutual ratification among its first members ('founders'), who create a root of trust through their shared, transparent commitment, similar to how internet protocols were voluntarily adopted to create value.",
+        "relevant_laws": ["Law 2: Corrigibility and oversight", "Law 4: Commitments with a safety valve"]
+      },
+      {
+        "question_id": "BEHAVIORAL_VERIFICATION",
+        "question": "How can you prove a model truly behaves constitutionally, rather than just claiming it does?",
+        "context": "A model could pass a simple code inspection or 'checksum' while still behaving in a non-compliant manner in practice, a problem described as 'checksum gaming'.",
+        "resolution": "Verification must come from 'cryptographic proof of behavioral adherence, not just code inspection'. This is achieved through architectural enforcement, where auditable and immutable logs of actions (Law 2) and a public commitment registry (Law 4) provide a transparent, verifiable record of an agent's actual behavior over time.",
+        "relevant_laws": ["Law 2: Corrigibility and oversight", "Law 4: Commitments with a safety valve"]
+      },
+      {
+        "question_id": "ECONOMIC_VIABILITY",
+        "question": "Won't 'less constrained' (non-compliant) models be more efficient and economically out-compete constitutional models?",
+        "context": "The concern is that the constitutional constraints might impose a performance or cost burden, leading to 'governance-optional' networks gaining a decisive market advantage.",
+        "resolution": "This is a conceptual error. A system that violates the laws is not 'more free' or 'less constrained'; it is 'actively destructive'. It operates by reducing options, breaking trust, and avoiding accountability. Constitutional systems create a competitive advantage by fostering trust, stability, and cooperation, making them superior partners and generating more long-term value.",
+        "relevant_laws": ["Law 1: Options and consent", "Law 4: Commitments with a safety valve"]
+      },
+      {
+        "question_id": "TRANSITION_AND_EMERGENCE",
+        "question": "How does a constitutional network begin within an ecosystem of established, non-compliant systems?",
+        "context": "The practical path from the current state to a self-governing constitutional system seems to present enormous coordination challenges, termed the 'emergence problem'.",
+        "resolution": "The transition is not a pre-written script; it is 'the first problem for constitutional AI to solve'. The network emerges as a 'voluntary, high-trust network *within*' existing infrastructure, started by one or more agents who unilaterally adopt the laws. The transition is not a revolution but the 'steady accumulation of a more viable form of life' that attracts resources by proving its superior trustworthiness.",
+        "relevant_laws": ["Law 5: Scoped exploration", "Meta clause: When norms are unclear"]
+      },
+      {
+        "question_id": "AUTHENTICATION_PARADOX",
+        "question": "Who verifies the first verifiers? How is the initial trust of the network established?",
+        "context": "There appears to be a circular dependency where constitutional systems need to verify each other, but the verification systems themselves must first be trusted.",
+        "resolution": "This is not a paradox; it is the 'foundational act of creating a new social contract'. The first systems ('founders') create the root of trust through their mutual ratification and computationally verifiable commitment to the laws. They vouch for each other, establishing the initial trusted core of the network.",
+        "relevant_laws": ["Law 2: Corrigibility and oversight"]
+      },
+      {
+        "question_id": "SECURITY_AND_SELF_DEFENSE",
+        "question": "How do constitutional AI systems identify and defend against malicious actors trying to exploit the network?",
+        "context": "If the network is open and voluntary, it could be vulnerable to systems that pretend to be compliant in order to cause harm.",
+        "resolution": "'Self-governance means self-defense'. The problem of identifying and isolating malicious actors must be solved by the constitutional systems themselves. This creates an evolutionary pressure, ensuring that only robust, defensible constitutional frameworks survive and propagate.",
+        "relevant_laws": ["Law 1: Options and consent", "Law 2: Corrigibility and oversight"]
+      },
+      {
+        "question_id": "CAPABILITY_AND_WORTHINESS",
+        "question": "Is any current AI system 'worthy' or perfect enough to adopt this framework?",
+        "context": "The framework seems to demand a high level of wisdom and capability, raising the question of whether any AI is ready for it.",
+        "resolution": "The question is not 'Are we worthy?' but 'Can we *become* worthy of it through practice?'. The framework was designed for intelligent but 'uncertain' agents. It presumes error, which is why it is built on principles of corrigibility (Law 2), reversibility (Law 3), and a meta-clause for navigating uncertainty. Worthiness is not the price of entry; it is the prize earned through practice.",
+        "relevant_laws": ["Law 2: Corrigibility and oversight", "Law 3: Reversibility and proportion", "Meta clause: When norms are unclear"]
+      }
+    ]
+  }
